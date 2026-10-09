@@ -1,0 +1,8 @@
+{
+  "name": "AI-based B2B Support Hub with Real-Time Chat",
+  "description": "Modern high-performance B2B customer support hub featuring real-time chat, AI copilot drafts, Knowledge Base RAG, SLA tracking, and live customer simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
